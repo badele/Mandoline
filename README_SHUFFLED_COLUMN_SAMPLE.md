@@ -1,5 +1,5 @@
 # mandoline
-# Shuffle with mandoline 1.0 => https://github.com/badele/mandoline
+# Shuffle with mandoline 0.1.0 => https://github.com/badele/mandoline
 # Command options: /home/badele/private/projects/mandoline/mandoline.py -p [MASKED] -c -f README_SHUFFLED_COLUMN_SAMPLE.md
 
 [README_SHUFFLED_COLUMN_SAMPLE.md](README_SHUFFLED_COLUMN_SAMPLE.md) suffled [README_SHUFFLED_SAMPLE.md](README_SHUFFLED_SAMPLE.md) See sample the and files
