@@ -10,4 +10,4 @@
 python mandoline.py -p "shufflepassword" -f filename.source
 ```
 
-See the [README_SHUFFLED_SAMPLE.md](README_SHUFFLED_SAMPLE.md) and [README_SHUFFLED_COLUMN_SAMPLE.md](README_SHUFFLED_COLUMN_SAMPLE.md) suffled sample files
+See [my codingame chalenges](https://github.com/badele/codingame) suffled soluces files
